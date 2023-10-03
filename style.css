@@ -1,0 +1,25 @@
+* {
+    color: white;
+    line-height: 2;
+}
+
+.centered {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #1d1d1d;
+}
+
