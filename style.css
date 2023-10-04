@@ -1,6 +1,6 @@
 * {
     color: white;
-    margin-top: 10px;
+    margin-top: 0px;
     line-height: 2;
 }
 
@@ -8,6 +8,35 @@
     text-align: center;
 }
 
+.o-title {
+    font-family: "Brush Script MT", sans-serif;
+    border: 2px solid #dbb1bc8e;
+    background-color: #8f95d3b1;
+    color: white;
+    padding: 0.5rem 2rem;
+    border-radius: 1rem;
+    text-shadow: 2px 3px 2px #00000047;
+}
+
+.title {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    left: 45%;
+    padding: 2px 0.5rem;
+    
+}
+
+.recipes {
+    font-family: "ADLaM Display", sans-serif;
+    font-size: 18px;
+    border: 2px solid #dbb1bc8e;
+    background-color: #8f95d3b1;
+    color: white;
+    padding: 0.5rem 2rem;
+    border-radius: 1rem;
+    text-shadow: 2px 2px 10px #000000a7;
+}
 
 .pcenter {
     margin-left: 550px;
@@ -27,7 +56,7 @@ a {
 }
 
 body {
-    background-color: #1d1d1d;
+    background-color: #89daff;
 }
 
 .img-center {
